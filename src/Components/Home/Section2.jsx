@@ -70,12 +70,12 @@ function Section2() {
 <img src={item} className='w-full ' alt="load..."  />    
 </div>))} */}
 
-<CompanyBox image={Company01}/>
+{/* <CompanyBox image={Company01}/>
 <CompanyBox image={Company02}/>
 <CompanyBox image={Company03}/>
 <CompanyBox image={Company04}/>
 <CompanyBox image={Company05}/>
-<CompanyBox image={Company06}/>
+<CompanyBox image={Company06}/> */}
 </div>
 </div>
 
