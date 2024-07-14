@@ -31,7 +31,7 @@ function Section2() {
 <Cards/>
 </div>
 
-<button type='button' className='my-2 px-5 py-2 bg-[#FE4A23] text-white rounded-lg'>View More Projects&nbsp;<i className="ri-arrow-right-line"></i></button>
+<button type='button' className='my-2 px-5 py-2 bg-[#FE4A23] text-sm md:text-base text-white rounded-lg'>View More Projects&nbsp;<i className="ri-arrow-right-line"></i></button>
 
 <div className="mt-8  w-full bg-[#FFF8F5]  px-3 py-16 lg:py-24">
 <div className="mx-auto w-full xl:w-[92%]  max-w-[1350px] flex justify-center xl:gap-x-11  ">
